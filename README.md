@@ -347,7 +347,11 @@ Contributions are welcome. Inspired by [GNNpapers](https://github.com/thunlp/GNN
 
 1. **Counterfactual Multi-Agent Policy Gradients**, *AAAI*, 2018. [paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/17193)
     
-    Jakob N. Foerster, Gregory Farquhar, Triantafyllos Afouras, Nantas Nardelli, Shimon Whiteson. 
+    Jakob N. Foerster, Gregory Farquhar, Triantafyllos Afouras, Nantas Nardelli, Shimon Whiteson.
+
+2. **Causal Reinforcement Learning(CRL)**, *ICML*, 2020. [tutorial](https://crl.causalai.net/)
+
+   Elias Bareinboim
 
 ## [Feature Selection in causal inference](#content)
 
